@@ -6,3 +6,5 @@ Encore une ligne pour fetch vvv ffff Alors
 COMMIT A
 COMMIT B
 COMMIT C
+COMMIT G
+COMMIT H
